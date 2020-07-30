@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌈 I’m currently working on [TAL](100tal.com)
+- 🌈 I’m currently learning PHP / Lua / Python / Golang / C / C++
+- 🌈 I’m currently contribution Apache APISIX / Orange / APIOAK
+- 🌈 How to reach me: shuaijinchao@apache.org
+
 [![Liling's github stats](https://github-readme-stats.vercel.app/api?username=shuaijinchao)](https://github.com/shuaijinchao)
 
 <!--
@@ -7,13 +12,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on TAL
-- 🌱 I’m currently learning PHP/Lua/Python/Golang/C/C++
-- I’m currently contribution
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
