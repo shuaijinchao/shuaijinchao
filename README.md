@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌈 I’m currently working on [TAL](100tal.com)
+- 🌈 I’m currently working on [TAL](https://100tal.com)
 - 🌈 I’m currently learning PHP / Lua / Python / Golang / C / C++
 - 🌈 I’m currently contribution Apache APISIX / Orange / APIOAK
 - 🌈 How to reach me: shuaijinchao@apache.org
