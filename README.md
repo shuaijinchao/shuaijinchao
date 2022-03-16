@@ -1,7 +1,7 @@
 ### Welcome to Homepage
 
 - 🌈 I’m currently working on [API7.ai](https://www.apiseven.com/)
-- 🌈 I'm currently contributing to projects of foundations like Apache / Kubernetes / CNCF
+- 🌈 I'm currently contributing to projects of foundations like `Apache` `Kubernetes` `CNCF`
 - 🌈 How to reach me: shuaijinchao@apache.org
 
 [![Liling's github stats](https://github-readme-stats.vercel.app/api?username=shuaijinchao)](https://github.com/shuaijinchao)
